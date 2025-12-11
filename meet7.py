@@ -55,3 +55,4 @@ print("a is not b =", hasil)
 hasil = a is not c
 print("a is not c =", hasil)
 
+
