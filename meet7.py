@@ -1,4 +1,5 @@
 # komparasi (true false)
+# > < >= <= == != is is-not
 
 x = 25   # 2 digit nim awal
 y = 82   # 2 digit nim akhir
@@ -53,3 +54,4 @@ hasil = a is not b
 print("a is not b =", hasil)
 hasil = a is not c
 print("a is not c =", hasil)
+
